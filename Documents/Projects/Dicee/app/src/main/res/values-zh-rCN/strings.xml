@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="roll_button_text">摇一摇</string>
+    <string name="casino_logo">赌场标志</string>
+    <string name="right_dice_image">右边骰子图案</string>
+    <string name="left_dice_image">左边骰子图案</string>
+</resources>
